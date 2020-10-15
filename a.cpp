@@ -1,8 +1,10 @@
-#inckude<iostream>
+#include<iostream>
 using namespace std;
 
 int main()
 {
-    cout<<"HELLO world!"<<endl;
+    int a,b,c;
+    a = 1;
+    cout<<"hello world!"<<endl;
     return 0;
 }
